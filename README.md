@@ -1,15 +1,40 @@
+<a href="https://umutkilbizoglu.dev"><img src="https://umutkilbizoglu.dev/og.jpg" alt="Umut Kılbızoğlu — ikas & Shopify themes and apps" width="100%"></a>
+
 ### Umut Kılbızoğlu
 
-I build Shopify and ikas storefront themes and apps, based in İzmir, Türkiye. Alongside e-commerce work I take on custom web projects, SEO and Meta ads.
+I build **ikas** and **Shopify** storefront themes and apps, and I'm an official partner on both platforms. Every project starts with a written scope, ships in stages you approve one by one, and keeps a dated log of what changed.
 
-**Currently**
-- Custom Shopify themes (Online Store 2.0) built from scratch: specs on collection cards, comparison and metafield filters
-- ikas apps: SEO health checks, newsletter popups and more on the way
-- Section demos that drop into any theme, such as [Shop the Look](https://umutverne.github.io/shop-the-look-demo/)
+**What I do**
+- [ikas custom themes](https://umutkilbizoglu.dev/hizmetler/ikas-ozel-tema-gelistirme): brand-specific sections, editable from the ikas panel
+- [Shopify custom themes](https://umutkilbizoglu.dev/hizmetler/shopify-ozel-tema-gelistirme): Online Store 2.0, written in Liquid from scratch
+- [ikas apps and integrations](https://umutkilbizoglu.dev/hizmetler/ikas-uygulama-gelistirme): stock, order, invoice and marketing flows on the ikas API
+- [Store migrations](https://umutkilbizoglu.dev/hizmetler/magaza-tasima) to ikas or Shopify, with a full 301 redirect plan
+- [Speed and technical SEO](https://umutkilbizoglu.dev/hizmetler/hiz-ve-teknik-seo): LCP, CLS, INP and structured data
 
-**Stack:** TypeScript · Next.js · React · Tailwind CSS · Liquid · Node.js · Prisma · Vercel
+**ikas apps**
+- [SEO Health Check](https://umutkilbizoglu.dev/projeler/seo-saglik): scores every product the way Google sees it and fixes missing SEO titles and descriptions in one click
+- [Newsletter Popup](https://umutkilbizoglu.dev/projeler/bulten-popup): asks for an email at the right moment, issues a single-use discount code, adds the subscriber to ikas customers
 
-**Contact**
-[umutkilbizoglu.dev](https://umutkilbizoglu.dev) · [umutkilbizoglu@gmail.com](mailto:umutkilbizoglu@gmail.com) · [Instagram](https://instagram.com/umutique)
+**Open source**
 
-<sub>Türkçe: Shopify ve ikas için tema ve uygulama geliştiriyorum. Proje için yazabilirsiniz.</sub>
+| Project | What it is |
+| --- | --- |
+| [verne-theme](https://github.com/umutverne/verne-theme) | ikas storefront theme: Next.js, TypeScript, Tailwind CSS |
+| [tek-tik-musteri](https://github.com/umutverne/tek-tik-musteri) | ikas customer panel app: Next.js, Prisma, ikas Admin API |
+| [ikas-bildirimlerim](https://github.com/umutverne/ikas-bildirimlerim) | ikas order notifications via Telegram, WhatsApp and email |
+| [shop-the-look-demo](https://github.com/umutverne/shop-the-look-demo) | Drop-in "Shop the Look" section for Shopify and ikas themes ([live demo](https://umutverne.github.io/shop-the-look-demo/)) |
+| [chrome-link-scheduler-extension](https://github.com/umutverne/chrome-link-scheduler-extension) | Chrome extension that opens and closes links on a schedule |
+
+**Writing** (Turkish)
+- [Measuring store speed: LCP, CLS and INP in plain words](https://umutkilbizoglu.dev/blog/magaza-hizi-lcp-cls-inp)
+- [The product page that sells: title, images, description and SEO fields](https://umutkilbizoglu.dev/blog/urun-sayfasi-nasil-yazilir)
+- [ikas or Shopify? Choosing a platform in Türkiye](https://umutkilbizoglu.dev/blog/ikas-mi-shopify-mi)
+- [Store migration without losing data](https://umutkilbizoglu.dev/blog/magaza-tasima-veri-kaybi-olmadan)
+
+**Stack:** TypeScript · Next.js · React · Liquid · Node.js · PostgreSQL · Prisma · Tailwind CSS · Vercel
+
+**Contact:** [umutkilbizoglu.dev](https://umutkilbizoglu.dev) · [Request a quote](https://umutkilbizoglu.dev/iletisim) · [umutkilbizoglu@gmail.com](mailto:umutkilbizoglu@gmail.com) · [Instagram](https://www.instagram.com/umutkilbizoglu/) · [TikTok](https://www.tiktok.com/@umutkilbizoglu)
+
+---
+
+<sub>**Türkçe:** ikas ve Shopify için tema ve uygulama geliştiriyorum; iki platformda da resmi partnerim. Kapsam yazılı, her aşama onayınızla kapanır. Proje için [teklif formu](https://umutkilbizoglu.dev/iletisim) iki dakika sürer.</sub>
